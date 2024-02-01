@@ -6,6 +6,7 @@ import {
   readFilesFromDir,
 } from './lib/file.js';
 
+
 import { indexTemplate, leikirTemplate, stadaTemplate } from './lib/html.js';
 import { parseGameday } from './lib/parse.js';
 import { calculateStandings } from './lib/score.js';
